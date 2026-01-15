@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ProceduralBuildings",
+	"Description": "Procedural Buildings provides an easy to use set of PCG based tools for generating walls and floors.  Part of the Procedural Architect suite",
+	"Category": "Other",
+	"CreatedBy": "Max Harris",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ProceduralBuildings",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
