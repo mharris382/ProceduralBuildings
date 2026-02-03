@@ -1,4 +1,6 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
+// Copyright (c) 2025 Max Harris
+// Published by Procedural Architect
+
 
 #include "ProceduralBuildings.h"
 

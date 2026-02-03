@@ -26,6 +26,8 @@ public class ProceduralBuildings : ModuleRules
 			new string[]
 			{
 				"Core",
+				"Engine",
+				"PCG"
 				// ... add other public dependencies that you statically link with here ...
 			}
 			);
